@@ -1,18 +1,25 @@
-## Hi there 👋
-https://media.licdn.com/dms/image/D4E16AQHXXz47hXY1fw/profile-displaybackgroundimage-shrink_350_1400/0/1712776171011?e=1721260800&v=beta&t=u-OfuDZk6Dfkp24tPZvLcj1bxZLwhMga-8NkyL80rNs![image](https://github.com/ValentinBaldi/ValentinBaldi/assets/161999990/55465fa0-1307-499f-b625-bd0bee5fcce6)
+# ¡Hola! 👋 Soy Valentin
+
+## Analista de Datos | Graduado de SoyHenry
+
+¡Bienvenido a mi perfil de GitHub! Soy un apasionado analista de datos con formación en SoyHenry. Me especializo en transformar datos en información valiosa y en crear visualizaciones impactantes que faciliten la toma de decisiones.
+
+### Habilidades Técnicas
+
+- **Python**: Experiencia en análisis de datos, web scraping, automatización y desarrollo de scripts.
+- **SQL Server**: Conocimientos en diseño y gestión de bases de datos, escritura de consultas complejas y optimización de bases de datos.
+- **Power BI**: Creación de dashboards interactivos y visualizaciones dinámicas para el análisis de datos.
+
+### Sobre Mí
+
+Mi formación en SoyHenry me ha brindado una base sólida en programación y análisis de datos, y me ha permitido desarrollar proyectos interesantes que abordan problemas del mundo real. Soy un entusiasta de la tecnología y siempre estoy buscando aprender y mejorar mis habilidades.
 
 
-<!--
-**ValentinBaldi/ValentinBaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Contáctame
 
-Here are some ideas to get you started:
+- **Correo Electrónico**: [valenb2021@gmail.com](mailto:valenb2021@gmail.com)
+- **LinkedIn**: [Tu Perfil de LinkedIn](https://www.linkedin.com/in/valentin-baldi-7385921a3/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+¡Gracias por visitar mi perfil! No dudes en contactarme si tienes alguna pregunta o si te gustaría colaborar en algún proyecto.
