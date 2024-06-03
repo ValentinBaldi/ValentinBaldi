@@ -1,4 +1,5 @@
 # ¡Hola! 👋 Soy Valentin
+![Banner Para LinkedIn Desarrollador De Software Moderno Negro](https://github.com/ValentinBaldi/ValentinBaldi/assets/161999990/7b40905b-e60d-4c0d-b61f-8a5af591d2f8)
 
 ## Analista de Datos | Graduado de SoyHenry
 
