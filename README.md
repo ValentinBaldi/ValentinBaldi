@@ -1,4 +1,6 @@
 ## Hi there 👋
+https://media.licdn.com/dms/image/D4E16AQHXXz47hXY1fw/profile-displaybackgroundimage-shrink_350_1400/0/1712776171011?e=1721260800&v=beta&t=u-OfuDZk6Dfkp24tPZvLcj1bxZLwhMga-8NkyL80rNs![image](https://github.com/ValentinBaldi/ValentinBaldi/assets/161999990/55465fa0-1307-499f-b625-bd0bee5fcce6)
+
 
 <!--
 **ValentinBaldi/ValentinBaldi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
